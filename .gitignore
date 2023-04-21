@@ -6,3 +6,4 @@ Hero_Shooter/Intermediate/*
 *.ini
 Hero_Shooter/Config/DefaultEngine.ini
 Hero_Shooter/Content/StarterContent/*
+*.log
