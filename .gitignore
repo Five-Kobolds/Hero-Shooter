@@ -1,3 +1,4 @@
 #Unreal Engine autosave boring stuff that takes up a bunch of space for no reason.
 Hero_Shooter/Saved/*
+Hero_Shooter/Saved/Logs/*
 Hero_Shooter/Intermediate/*
