@@ -920,3 +920,29 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.05.10-10.14.40:747][694]LogViewport: Scene viewport resized to 1014x332, mode Windowed.
 [2023.05.10-10.14.41:148][694]LogViewport: Scene viewport resized to 1267x415, mode Windowed.
 [2023.05.10-10.14.41:681][694]LogViewport: Scene viewport resized to 1523x555, mode Windowed.
+[2023.05.10-10.16.20:225][207]LogViewport: Scene viewport resized to 1526x585, mode Windowed.
+[2023.05.10-10.16.54:618][206]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.05.10-10.16.54:618][206]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.05.10-10.16.55:692][267]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2023.05.10-10.16.56:762][267]LogSlate: Window 'Delete Assets' being destroyed
+[2023.05.10-10.16.57:060][267]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2023.05.10-10.16.57:100][267]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2023.05.10-10.16.57:138][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2023.05.10-10.16.57:460][267]SourceControl: Error: Updated 0 paths from the index
+[2023.05.10-10.16.57:730][267]SourceControl: rm 'Hero_Shooter/Content/Characters/Tank/BP_Test.uasset'
+[2023.05.10-10.17.19:718][563]LogContentBrowser: Attempting asset rename: BP_Character_Sigma -> BP_Character_Sigma
+[2023.05.10-10.17.27:786][ 10]BlueprintLog: New page: Compile BP_Character_Sigma
+[2023.05.10-10.17.27:899][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2023.05.10-10.17.41:249][689]LogSavePackage: Moving output files for package: /Game/Characters/Tank/BP_Character_Sigma
+[2023.05.10-10.17.41:257][689]LogSavePackage: Moving '//students/student/30258818/My Documents/Hero-Shooter/Hero_Shooter/Saved/BP_Character_Sigma7F74EBEA49F020105F8748A095A27F18.tmp' to '//students/student/30258818/My Documents/Hero-Shooter/Hero_Shooter/Content/Characters/Tank/BP_Character_Sigma.uasset'
+[2023.05.10-10.17.41:307][689]AssetCheck: New page: Asset Save: BP_Character_Sigma
+[2023.05.10-10.17.41:307][689]LogContentValidation: Display: Validating Blueprint /Game/Characters/Tank/BP_Character_Sigma.BP_Character_Sigma
+[2023.05.10-10.18.00:176][722]LogSavePackage: Moving output files for package: /Game/Characters/Tank/BP_Character_Sigma
+[2023.05.10-10.18.00:182][722]LogSavePackage: Moving '//students/student/30258818/My Documents/Hero-Shooter/Hero_Shooter/Saved/BP_Character_SigmaF380ABA4405574E10818D186A6479881.tmp' to '//students/student/30258818/My Documents/Hero-Shooter/Hero_Shooter/Content/Characters/Tank/BP_Character_Sigma.uasset'
+[2023.05.10-10.18.07:734][722]LogSlate: Window 'Submit Files' being destroyed
+[2023.05.10-10.18.09:369][722]LogSourceControl: commit successful: [Tank-Experimental 30eaa93] asdf
+[2023.05.10-10.18.09:479][722]SourceControl: [Tank-Experimental 30eaa93] asdf
+[2023.05.10-10.18.09:479][722]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2023.05.10-10.18.09:501][722]SourceControl: Commited [Tank-Experimental 30eaa93] asdf.
+[2023.05.10-10.18.09:508][722]AssetCheck: New page: Asset Save: BP_Character_Sigma
+[2023.05.10-10.18.09:508][722]LogContentValidation: Display: Validating Blueprint /Game/Characters/Tank/BP_Character_Sigma.BP_Character_Sigma
